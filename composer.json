@@ -1,0 +1,16 @@
+{
+    "name": "youssef/packend2025",
+    "description": "class database",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Youssef\\Packend2025\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "youssef ismail"
+        }
+    ],
+    "require": {}
+}
